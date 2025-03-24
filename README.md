@@ -29,7 +29,7 @@ like so:
 
 ## mammoth-3D Mods
 
-| Creator | Mod title | Description | [Voron](https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers) | [VZBOT](https://github.com/mammoth-3D/Mammoth-FDM-MODs) | | [RatRig](https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/RatRig%20V-Core%203D%20Printers) | Difficulty
+| Creator | Mod title | Description | [Voron](https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/Voron%203D%20Printers) | [VZBOT](https://github.com/mammoth-3D/Mammoth-FDM-MODs) | [RatRig](https://github.com/mammoth-3D/Mammoth-FDM-MODs/tree/main/RatRig%20V-Core%203D%20Printers) | Difficulty
 | --- | --- | --- | --- | --- | --- |
 | example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | ✔️ | :black_heart: |
 
