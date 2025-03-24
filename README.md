@@ -30,4 +30,4 @@ like so:
 
 | Creator | Mod title | Description | VZ235 | Vz330 | vCore3 | vCore4 | Voron 2.4 | Voron Trident|Difficulty
 | --- | --- | --- | --- | --- | --- |
-| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
+| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |:green_heart::blue_heart::heart: |
