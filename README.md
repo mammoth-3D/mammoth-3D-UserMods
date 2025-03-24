@@ -16,7 +16,7 @@ Update the following table with the information about your mod:
 - A link to your sub-folder
 - A short description of your mod
 - The build difficulty:
-  - :green_heart: for :green_heart: (Easy)
+  - :star: for (Easy)
   - :blue_heart: for :blue_heart: (Intermediate)
   - :heart: for :heart: (Advanced)
 
