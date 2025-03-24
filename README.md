@@ -19,7 +19,7 @@ Update the following table with the information about your mod:
   - :star: for (Easy)
   - :star::star: for (Intermediate)
   - :star::star::star: for (Advanced)
-  - :blackstar: for (WTF)
+  - :black_star: for (WTF)
 
 like so:
 `
