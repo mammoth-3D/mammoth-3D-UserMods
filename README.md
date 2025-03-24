@@ -40,6 +40,6 @@ like so:
 
 ## RatRig Mods
 
-| Creator | Mod title | Description | [vCore3](https://github.com/Rat-Rig/V-core-3) | [Vz235](https://github.com/Rat-Rig) | Difficulty
+| Creator | Mod title | Description | [vCore3](https://github.com/Rat-Rig/V-core-3) | [vCore4](https://github.com/Rat-Rig) | Difficulty
 | --- | --- | --- | --- | --- | --- |
 | example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
