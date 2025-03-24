@@ -8,3 +8,26 @@ Join our Discord server: https://discord.gg/u8GcxHT5ZJ
 Submit your mods directly to @sergmann, and help expand the collection of user-created enhancements!
 
 ![mammoth-3D UserMods](https://github.com/mammoth-3D/mammoth-3D-UserMods/blob/main/images/usermods.png)
+
+## Table structure
+
+Update the following table with the information about your mod:
+- Your name
+- A link to your sub-folder
+- A short description of your mod
+- The build difficulty:
+  - :green_heart: for :green_heart: (Easy)
+  - :blue_heart: for :blue_heart: (Intermediate)
+  - :heart: for :heart: (Advanced)
+
+like so:
+`
+| Creator | [Mod title](link) | ✔️/✖️ | ✔️/✖️ | Description | Difficulty `
+
+---
+
+## Mods
+
+| Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | [Vz235](https://github.com/VzBoT3D/VzBoT-Vz235) | Difficulty
+| --- | --- | --- | --- | --- | --- |
+| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
