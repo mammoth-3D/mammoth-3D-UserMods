@@ -27,14 +27,6 @@ like so:
 
 ---
 
-## mammoth-3D Mods
-
-| Creator | Mod title | Description | Difficulty |
-| --- | --- | --- | --- |
-| mammoth-3D-DevTeam | [Voron](./creator_here/mod_folder_name)| Example entry for the table | :black_heart: |
-| mammoth-3D-DevTeam | [VZBOT](./creator_here/mod_folder_name)| Example entry for the table | :black_heart: |
-| mammoth-3D-DevTeam | [RatRig](./creator_here/mod_folder_name)| Example entry for the table | :black_heart: |
-
 ## VoronDesign Mods
 
 | Creator | Mod title | Description | [Voron 2.4](https://github.com/VoronDesign/Voron-2) | [Trident](https://github.com/VoronDesign/Voron-Trident) | Difficulty
