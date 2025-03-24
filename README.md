@@ -17,8 +17,8 @@ Update the following table with the information about your mod:
 - A short description of your mod
 - The build difficulty:
   - :star: for (Easy)
-  - :blue_heart: for :blue_heart: (Intermediate)
-  - :heart: for :heart: (Advanced)
+  - :star::star: for (Intermediate)
+  - :star::star::star: for (Advanced)
 
 like so:
 `
@@ -30,16 +30,16 @@ like so:
 
 | Creator | Mod title | Description | [Voron 2.4](https://github.com/VoronDesign/Voron-2) | [Trident](https://github.com/VoronDesign/Voron-Trident) | Difficulty
 | --- | --- | --- | --- | --- | --- |
-| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
+| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :star: |
 
 ## VZBOT Mods
 
 | Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | [Vz235](https://github.com/VzBoT3D/VzBoT-Vz235) | Difficulty
 | --- | --- | --- | --- | --- | --- |
-| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
+| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :star::star: |
 
 ## RatRig Mods
 
 | Creator | Mod title | Description | [vCore3](https://github.com/Rat-Rig/V-core-3) | [vCore4](https://github.com/Rat-Rig) | Difficulty
 | --- | --- | --- | --- | --- | --- |
-| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
+| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :star::star::star: |
