@@ -7,4 +7,4 @@ Want to Submit a Mod?
 Join our Discord server: https://discord.gg/u8GcxHT5ZJ
 Submit your mods directly to @sergmann, and help expand the collection of user-created enhancements!
 
-![mammoth-3D UserMods](https://github.com/mammoth-3D/mammoth-3D-UserMods/images/usermods.png)
+![mammoth-3D UserMods](https://github.com/mammoth-3D/mammoth-3D-UserMods/blob/main/images/usermods.png)
