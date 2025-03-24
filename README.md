@@ -26,8 +26,20 @@ like so:
 
 ---
 
-## Mods
+## VoronDesign Mods
 
-| Creator | Mod title | Description | VZ235 | Vz330 | vCore3 | vCore4 | Voron 2.4 | Voron Trident|Difficulty
+| Creator | Mod title | Description | [Voron 2.4](https://github.com/VoronDesign/Voron-2) | [Trident](https://github.com/VoronDesign/Voron-Trident) | Difficulty
 | --- | --- | --- | --- | --- | --- |
-| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |:green_heart::blue_heart::heart: |
+| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
+
+## VZBOT Mods
+
+| Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | [Vz235](https://github.com/VzBoT3D/VzBoT-Vz235) | Difficulty
+| --- | --- | --- | --- | --- | --- |
+| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
+
+## RatRig Mods
+
+| Creator | Mod title | Description | [vCore3](https://github.com/Rat-Rig/V-core-3) | [Vz235](https://github.com/Rat-Rig) | Difficulty
+| --- | --- | --- | --- | --- | --- |
+| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
